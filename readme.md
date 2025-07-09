@@ -1,5 +1,5 @@
 ### Diffrent Data structure algorithms
-this is my journy leaning DSA with cpp. 
+this is my journey leaning DSA with cpp. 
 each folder as name suggest it related to alogorithm and inside it there are souce code implemnted in cpp language
 I hope that help others.
 I would push new updateds , every new algorthim or new consept would be added 
