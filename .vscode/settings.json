@@ -1,0 +1,7 @@
+{
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc",
+    "files.associations": {
+        "*.dbclient-js": "javascript",
+        "vector": "cpp"
+    }
+}
