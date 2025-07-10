@@ -1,43 +1,6 @@
 #include <iostream>
 using namespace std;
 
-// char compare(int x, int y)
-// {
-//     if (x > y)
-//     {
-//         return '>';
-//     }
-//     else if (x < y)
-//     {
-//         return '<';
-//     }
-//     else
-//     {
-//         return '=';
-//     }
-// }
-// int binerySearch(int *a, const int x, const int n)
-// {
-//     for (int left = 0, right = n - 1; left <= right;)
-//     {
-//         int middle = (left + right) / 2;
-//         switch (compare(x, a[middle]))
-//         {
-//         case '>':
-//             left = middle + 1;
-//             break;
-//         case '<':
-//             right = middle - 1;
-//             break;
-//         case '=':
-//             return middle;
-//         }
-//     }
-//     return -1;
-// }
-
-
-
 int binary_search(int *a, const int x, const int n)
 {
     for (int l = 0, r = n - 1; l <= r;)
